@@ -1,0 +1,17 @@
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\bin\Debug\selenium-manager\linux\selenium-manager
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\bin\Debug\selenium-manager\macos\selenium-manager
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\bin\Debug\Selenium_46_NguyenPhuocTho.exe.config
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\bin\Debug\Selenium_46_NguyenPhuocTho.exe
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\bin\Debug\Selenium_46_NguyenPhuocTho.pdb
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\bin\Debug\Newtonsoft.Json.dll
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\bin\Debug\WebDriver.dll
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\bin\Debug\Newtonsoft.Json.xml
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\obj\Debug\Selenium_46_NguyenPhuocTho.csproj.AssemblyReference.cache
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\obj\Debug\Selenium_46_NguyenPhuocTho.Form1.resources
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\obj\Debug\Selenium_46_NguyenPhuocTho.Properties.Resources.resources
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\obj\Debug\Selenium_46_NguyenPhuocTho.csproj.GenerateResource.cache
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\obj\Debug\Selenium_46_NguyenPhuocTho.csproj.CoreCompileInputs.cache
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\obj\Debug\Selenium.750D72CA.Up2Date
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\obj\Debug\Selenium_46_NguyenPhuocTho.exe
+D:\kiểm thử\Selenium_46_NguyenPhuocTho\Selenium_46_NguyenPhuocTho\obj\Debug\Selenium_46_NguyenPhuocTho.pdb
